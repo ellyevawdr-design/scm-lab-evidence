@@ -1,20 +1,11 @@
-# Session 2 Traceability Note
+# Traceability note
 
-- **Issue:** #1 - Add traceability note template for Session 2
-- **Branch:** feat/issue-1-traceability-note (merged and deleted)
-- **Pull Request:** #2 - Feat/issue 1 traceability note (Merged into main)
-- **Commit / Merge Commit ID:** <COMMIT_ID>
-- **Review:** Completed inline review comment on line R15 of session2/traceability-note.md
-- **Merge Result:** Merged cleanly into main; Issue #1 automatically closed as completed
-- 
-cat << 'EOF' > session2/traceability-note.md
-# Session 2 Traceability Note
-
-- **Issue:** #1 - Add traceability note template for Session 2
-- **Branch:** feat/issue-1-traceability-note (merged and deleted)
-- **Pull Request:** #2 - Feat/issue 1 traceability note (Merged into main)
-- **Commit / Merge Commit ID:** <COMMIT_ID>
-- **Review:** Completed inline review comment on line R15 of session2/traceability-note.md
-- **Merge Result:** Merged cleanly into main; Issue #1 automatically closed as completed
-- **Affected Files:** session2/traceability-note.md, session2/traceability-template.md
-
+| Field | Value | 
+|---|---|
+| Change request / Issue | #1 https://github.com/ellyevawdr-design/scm-lab-evidence/issues/1 |
+| Branch | feat/issue-1-traceability-note |
+| Pull request | #2 https://github.com/ellyevawdr-design/scm-lab-evidence/pull/2 |
+| Reviewer / review evidence | ellyevawdr-design (self-review), inline comment on line R15 of session2/traceability-note.md, 2026-11-27, https://github.com/ellyevawdr-design/scm-lab-evidence/pull/2 |
+| Merge result | merged into main, merge commit 256e32d, 2026-11-27 |
+| Affected files | session2/traceability-note.md, session2/traceability-template.md |
+| Verification | Checked that session2/traceability-note.md exists, includes all required traceability fields, and Issue #1 closed automatically upon merging PR #2 |
