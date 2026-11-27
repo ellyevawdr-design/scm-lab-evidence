@@ -1,0 +1,3 @@
+#Code Review vs. Formal Configuration Audit
+
+In my pull request(#2) for session2/traceability-note.md, the code review was incremental, peer-level check of specific line changes before merging into 'main' to verify clarity and required fieldss. By contrast, a formal configuration audit (such as Functional or Physical Configuration Auditing) is a structured verification against baseline requirements and documentation-checking that the implemented product actually satisfies functional specifications (FCA) and that the as-built configuration matches its approved baseline artifacts (PCA). While code review catches localized mistakes early during active change control, a formal audit validates overall baseline integrity and compliance.
